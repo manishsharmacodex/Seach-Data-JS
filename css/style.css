@@ -58,5 +58,7 @@ table {
     .btn{
         font-size: 18px;
         padding: 10px 10px;
+        background-color: rgba(148, 27, 6, 0.877);
+        color: #fff;
     }
 }
