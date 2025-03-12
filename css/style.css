@@ -52,3 +52,11 @@ select {
 table {
     width: 100%;
 }
+
+
+@media (max-width: 420px){
+    .btn{
+        font-size: 18px;
+        padding: 10px 10px;
+    }
+}
